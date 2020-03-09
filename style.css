@@ -1,0 +1,55 @@
+
+.button{
+   background-color: black;
+   border-radius: 10px;
+   color:white;
+   border: none;
+   cursor: pointer;
+   padding:8px 15px;
+   
+   
+}
+p{
+    color:gray;
+    
+}
+.gray{
+    
+    color: gray;
+    font-size: 15px;
+    text-align: center;
+}
+.card{
+    text-align: center;
+    
+    border: gray;
+    border-radius: 5px;
+}
+.container{
+    margin-bottom:100px;
+    padding-bottom: 50px;
+    font-family:'Poppins', sans-serif;
+}
+h6{
+    color: orange;
+}
+small{
+    color: gray;
+}
+.pad{
+    margin-top:20px;
+}
+.cata{
+    text-align: center;
+}
+.first{
+    padding-bottom: 50px;
+    padding-left: 100px;
+    
+
+}
+.second{
+    padding-top: 115px;
+    padding-left: 100px;
+}
+
